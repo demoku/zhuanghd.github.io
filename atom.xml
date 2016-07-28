@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>三味书屋</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zhuanghd.me/"/>
+  <updated>2016-07-27T16:45:30.000Z</updated>
+  <id>http://zhuanghd.me/</id>
+  
+  <author>
+    <name>zhuanghd</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阅读就是魅力</title>
+    <link href="http://zhuanghd.me/2016/07/28/%E9%98%85%E8%AF%BB%E5%B0%B1%E6%98%AF%E9%AD%85%E5%8A%9B/"/>
+    <id>http://zhuanghd.me/2016/07/28/阅读就是魅力/</id>
+    <published>2016-07-27T16:00:45.000Z</published>
+    <updated>2016-07-27T16:45:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>阅读，让灵魂在冬日温暖相依；阅读，使你举手投足自信从容；阅读，放你自由奔向诗意和远方。阅读就是魅力！</p>
+<h3 id="阅读给人启发"><a href="#阅读给人启发" class="headerlink" title="阅读给人启发"></a>阅读给人启发</h3><pre><code>另一种声音 另一个世界
+低头看书、抬头看人
+阅读是穿梭时空的心灵隧道
+阅读是浮躁社会里最好的避难所
+阅读是和心灵的对话方式
+阅读启发想象 让你感受与众不同
+阅读让我了解世界理解自己
+阅读让我找到生活的哲学
+阅读是静止的旅行
+精神的愉悦 情感的满足 生活的升华
+...
+</code></pre><h3 id="阅读让人思考"><a href="#阅读让人思考" class="headerlink" title="阅读让人思考"></a>阅读让人思考</h3><pre><code>阅读是灵魂的必修课
+阅读 发现未知的自己
+想想另一种可能
+阅读就是对生命的沉淀
+阅读 打开世界的另一种方式
+经历一种不同的人生
+读书使人睿智
+让人学会思考和自我探索
+阅读是另一种聆听
+阅读让灵魂自由
+...
+</code></pre><h3 id="阅读令人升华"><a href="#阅读令人升华" class="headerlink" title="阅读令人升华"></a>阅读令人升华</h3><pre><code>阅读像是服用多巴胺
+...
+</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;阅读，让灵魂在冬日温暖相依；阅读，使你举手投足自信从容；阅读，放你自由奔向诗意和远方。阅读就是魅力！&lt;/p&gt;
+&lt;h3 id=&quot;阅读给人启发&quot;&gt;&lt;a href=&quot;#阅读给人启发&quot; class=&quot;headerlink&quot; title=&quot;阅读给人启发&quot;&gt;&lt;/a&gt;阅读给人启发&lt;/h3
+    
+    </summary>
+    
+      <category term="读书" scheme="http://zhuanghd.me/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+      <category term="阅读" scheme="http://zhuanghd.me/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://zhuanghd.me/2016/07/27/hello-world/"/>
+    <id>http://zhuanghd.me/2016/07/27/hello-world/</id>
+    <published>2016-07-27T07:13:10.000Z</published>
+    <updated>2016-07-27T16:49:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
