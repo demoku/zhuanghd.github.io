@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>三味书屋</title>
-  <subtitle>天下难事，必作于易；天下大事，必作于细。</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhuanghd.me/"/>

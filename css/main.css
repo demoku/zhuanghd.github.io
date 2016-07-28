@@ -1549,7 +1549,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7cbdff;
+  background: #936a7c;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2296,8 +2296,7 @@ body {
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: url("/images/cao.png") no-repeat;
-  background-size: 100%;
+  background: url("/images/cao.png");
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .site-meta {
